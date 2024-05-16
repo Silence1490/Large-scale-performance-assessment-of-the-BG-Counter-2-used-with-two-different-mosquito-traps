@@ -1,0 +1,1 @@
+# Large-scale-performance-assessment-of-the-BG-Counter-2-used-with-two-different-mosquito-traps
