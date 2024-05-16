@@ -6,8 +6,8 @@ In order to Knit to Pdf using RMarkdown, tinytex must be installed.
 Type in console: tinytex::install_tinytex()
 
 1. Download all files
-2. open A-large-scale-performance-assesment-of-the-BG-Counter-2v3.Rproj
-3. within open A-large-scale-performance-assesment-of-the-BG-Counter-2v3.Rmd
+2. open A-large-scale-performance-assessment-of-the-BG-Counter-2v3.Rproj
+3. within open A-large-scale-performance-assessment-of-the-BG-Counter-2v3.Rmd
 4. install all packages
 5. Run code
 6. tinytex::install_tinytex()
